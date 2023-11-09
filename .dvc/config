@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = D:\dvc_remote
+    url = //DESKTOP-7TK4E1S/dvc_remote
